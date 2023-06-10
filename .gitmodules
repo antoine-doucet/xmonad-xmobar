@@ -7,6 +7,3 @@
 [submodule "xmonad-contrib-git"]
 	path = xmonad-contrib-git
 	url = git@github.com:xmonad/xmonad-contrib
-[submodule "xmobar-git"]
-	path = xmobar-git
-	url = git@github.com:jaor/xmobar
