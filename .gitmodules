@@ -1,6 +1,3 @@
-[submodule "stack"]
-	path = stack
-	url = git@github.com:commercialhaskell/stack.git
 [submodule "xmonad-git"]
 	path = xmonad-git
 	url = git@github.com:xmonad/xmonad
